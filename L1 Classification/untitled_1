@@ -1,0 +1,5 @@
+import pandas as pd
+data = pd.read_csv("US Congressional Voting Records (1984) - Sheet1.csv"
+data.head()
+                   
+                   
